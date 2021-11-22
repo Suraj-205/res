@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/activity_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_credit_graph.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_input_buttons.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_message_preview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_message_received.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_message_send.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_row_connected.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_row_key_file.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_row_language.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/component_row_recent.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/dialog_connection_request.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/dialog_edit_name.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/dialog_key_files.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/dialog_languages.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/fragment_conversation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SVSS/Downloads/New WinRAR archive/RTranslator-master/app/src/main/res/layout/fragment_credit.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
